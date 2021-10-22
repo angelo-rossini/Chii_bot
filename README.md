@@ -23,3 +23,5 @@ Comandos
 !dado - ela pedirá o número máximo que deseja ser sorteado e então dar a resposta, perfeita para apostas ou rpg.
 
 Obs:Todos os recursos da chii são gratuitos logo não se surpreenda caso algum recurso esteja com excesso de requisições, peço perdão por essa quebra de experiência, porém foi o possível, espero que compreendam.
+
+link para adicionar:https://discord.com/api/oauth2/authorize?client_id=899404818425204798&permissions=137439438848&scope=bot
